@@ -209,20 +209,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This chatbot is designed for preliminary health guidance only and should not replace professional medical advice, diagnosis, or treatment. Always consult with qualified healthcare providers for medical concerns.
 
-## 👥 Team
-
-**Team Members:**
-- I Charuhas Reddy (CB.SC.U4AIE23233)
-- CB Harsha Vardhan (CB.AC.U4AIE23220)  
-- C Vishnu Vardhan Chowdary (CB.SC.U4AIE23219)
-- Y Bhasith Sai Reddy (CB.SC.U4AIE23264)
-
-**Supervisor:** CB Prajeesh, Assistant Professor, Department of Artificial Intelligence, Amrita Vishwa Vidyapeetham
-
-## 📞 Contact
-
-For questions or support, please open an issue or contact the development team.
-
----
 
 **⭐ If you find this project helpful, please give it a star!**
