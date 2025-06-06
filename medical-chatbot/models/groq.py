@@ -66,7 +66,7 @@ def get_vector_store(text_chunks):
     """
     try:
         embeddings = GoogleGenerativeAIEmbeddings(
-            google_api_key=os.getenv("AIzaSyDFRi2vqIvtoldhV5oCigCAkspWoKWWQrg"), model="models/embedding-001"
+            google_api_key=os.getenv("your-api-key"), model="models/embedding-001"
         )
         vector_store = FAISS.from_texts(text_chunks, embedding=embeddings)
         return vector_store
