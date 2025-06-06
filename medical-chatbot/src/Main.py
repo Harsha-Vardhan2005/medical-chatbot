@@ -147,7 +147,7 @@ from groq import handle_report_analysis  # Import the analysis function from gro
 # st.set_page_config(page_title="Medical Report Analysis", layout="centered")
 
 # Set up the Google API key (replace with your actual key)
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDFRi2vqIvtoldhV5oCigCAkspWoKWWQrg"  # Replace this with your actual API key
+os.environ["GOOGLE_API_KEY"] = "your-api-key"  # Replace this with your actual API key
 
 # Main UI for uploading a file
 st.title("Medical Report Analysis")
